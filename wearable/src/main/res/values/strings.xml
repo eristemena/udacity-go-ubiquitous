@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wearable</string>
+    <string name="watchface_name">My Sunshine Watch Face</string>
+</resources>
