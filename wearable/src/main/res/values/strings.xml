@@ -2,7 +2,8 @@
     <string name="app_name">Wearable</string>
     <string name="watchface_name">My Sunshine Watch Face</string>
 
-    <string name="format_temperature"><xliff:g id="temp">%1.0f</xliff:g>\u00B0</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
 
     <string name="sunday">SUN</string>
     <string name="monday">MON</string>
